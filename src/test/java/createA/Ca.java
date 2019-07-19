@@ -20,19 +20,19 @@ public class Ca {
 	    // Double, Byte, Short, Long, BigInteger or BigDecimal.
 	    //
 	    // For other transformations you can register a DataTableType.
-	    throw new cucumber.api.PendingException();
+	   // throw new cucumber.api.PendingException();
 	}
 
 	@When("he clicks on login button")
 	public void he_clicks_on_login_button() {
 	    // Write code here that turns the phrase above into concrete actions
-	    throw new cucumber.api.PendingException();
+	    //throw new cucumber.api.PendingException();
 	}
 
 	@Then("Home page is displayed")
 	public void home_page_is_displayed() {
 	    // Write code here that turns the phrase above into concrete actions
-	    throw new cucumber.api.PendingException();
+	   // throw new cucumber.api.PendingException();
 	}
 
 }
